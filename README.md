@@ -13,10 +13,6 @@ This project investigates the determinants of economic growth across countries u
 - Econometrics
 - Statistical Analysis
 
-## Repository Structure
-
-- `scripts/` - R source code
-- `report/` - final project report
 
 ## Author
 
